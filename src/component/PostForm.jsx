@@ -24,7 +24,6 @@ const PostForm = ({ create }) => {
     });
   }
 
-
   return (
     <form>
       {/* управляемый компонент */}
