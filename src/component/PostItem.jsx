@@ -1,5 +1,5 @@
 import Reactfrom from "react";
-import { MyButton } from "./UI/button/MyButton";
+import { MyButton } from "./UI/button/MyButton.jsx";
 
 export const PostItem = (props) => {
 
